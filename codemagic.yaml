@@ -5,10 +5,10 @@ workflows:
     environment:
       flutter: stable
       vars:
-        ANDROID_KEYSTORE: Encrypted(...)
-        ANDROID_KEYSTORE_PASSWORD: Encrypted(...)
-        ANDROID_KEY_ALIAS: Encrypted(...)
-        ANDROID_KEY_PASSWORD: Encrypted(...)
+        ANDROID_KEYSTORE: ./key/key.jks
+        ANDROID_KEYSTORE_PASSWORD: hesoyam
+        ANDROID_KEY_ALIAS: key
+        ANDROID_KEY_PASSWORD: hesoyam
     scripts:
       - name: Get dependencies
         script: |
