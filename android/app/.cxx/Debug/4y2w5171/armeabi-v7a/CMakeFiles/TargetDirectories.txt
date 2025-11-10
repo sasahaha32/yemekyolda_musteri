@@ -1,0 +1,2 @@
+D:/iniLabs/current_support/foodbank-customer-app/android/app/.cxx/Debug/4y2w5171/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/iniLabs/current_support/foodbank-customer-app/android/app/.cxx/Debug/4y2w5171/armeabi-v7a/CMakeFiles/rebuild_cache.dir

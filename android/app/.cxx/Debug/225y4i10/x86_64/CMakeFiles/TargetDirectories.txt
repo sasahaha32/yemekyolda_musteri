@@ -1,0 +1,2 @@
+C:/version update feb 25/foodbank-customer-app/android/app/.cxx/Debug/225y4i10/x86_64/CMakeFiles/edit_cache.dir
+C:/version update feb 25/foodbank-customer-app/android/app/.cxx/Debug/225y4i10/x86_64/CMakeFiles/rebuild_cache.dir

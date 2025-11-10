@@ -1,0 +1,2 @@
+E:/Foodbank/foodbank-customer-app/android/app/.cxx/RelWithDebInfo/4r516338/x86/CMakeFiles/edit_cache.dir
+E:/Foodbank/foodbank-customer-app/android/app/.cxx/RelWithDebInfo/4r516338/x86/CMakeFiles/rebuild_cache.dir
